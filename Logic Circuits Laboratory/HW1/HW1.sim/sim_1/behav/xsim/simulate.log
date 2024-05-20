@@ -1,0 +1,8 @@
+Vivado Simulator 2017.4
+Time resolution is 1 ps
+$finish called at time : 50 ns : File "C:/Users/mehme/blg242/HW1/HW1.srcs/sim_1/new/Part2b_test.v" Line 46
+e/blg242/HW1/HW1.srcs/sim_1/new/Part2b_test2.v
+Error: Test failed: Q2 = xx
+Time: 30 ns  Iteration: 0  Process: /testbench/Initial31_9  File: C:/Users/mehme/blg242/HW1/HW1.srcs/sim_1/new/Part2b_test2.v
+Test passed.
+$finish called at time : 40 ns : File "C:/Users/mehme/blg242/HW1/HW1.srcs/sim_1/new/Part2b_test2.v" Line 65

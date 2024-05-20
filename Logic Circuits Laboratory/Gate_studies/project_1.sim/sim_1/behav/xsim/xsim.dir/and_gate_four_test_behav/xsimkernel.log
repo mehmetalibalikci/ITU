@@ -1,0 +1,7 @@
+Running: xsim.dir/and_gate_four_test_behav/xsimk.exe -simmode gui -wdb and_gate_four_test_behav.wdb -simrunnum 0 -socket 59395
+Design successfully loaded
+Design Loading Memory Usage: 7696 KB (Peak: 7696 KB)
+Design Loading CPU Usage: 0 ms
+Simulation completed
+Simulation Memory Usage: 8320 KB (Peak: 8320 KB)
+Simulation CPU Usage: 0 ms

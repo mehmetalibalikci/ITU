@@ -1,0 +1,18 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx_LocigLab/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto af69d9fd868a4c7a8e0cd3ce723a675b --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot sixteen_bit_adder_subtractorTest_behav xil_defaultlib.sixteen_bit_adder_subtractorTest xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.xor_gate
+Compiling module xil_defaultlib.and_gate
+Compiling module xil_defaultlib.or_gate
+Compiling module xil_defaultlib.one_bit_full_adder
+Compiling module xil_defaultlib.eigth_bit_full_adder
+Compiling module xil_defaultlib.sixteen_bit_adder_subtractor
+Compiling module xil_defaultlib.sixteen_bit_adder_subtractorTest
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot sixteen_bit_adder_subtractorTest_behav

@@ -1,0 +1,14 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/mehme/blg242/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sim_1/new/D_latches_enable_test.v,1680860085,verilog,,,,D_latches_enable_test,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sim_1/new/SR_latch_enable_test.v,1680858809,verilog,,,,SR_latch_enable_test,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sim_1/new/SR_latch_test.v,1680850994,verilog,,,,SR_latch_test,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sim_1/new/negative_edge_d_flipflop_test.v,1680861202,verilog,,,,negative_edge_d_flipflop_test,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/D_latches_enable.v,1680860071,verilog,,C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/nand_gate.v,,D_latches_enable,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/SR_latch.v,1680857682,verilog,,C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/nand_gate.v,,SR_latch,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/SR_latch_enable.v,1680858590,verilog,,C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/nand_gate.v,,SR_latch_enable,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/nand_gate.v,1680848465,verilog,,C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v,,nand_gate,,,,,,,,
+C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v,1680860789,verilog,,C:/Users/mehme/blg242/project_2/project_2.srcs/sim_1/new/negative_edge_d_flipflop_test.v,,negative_edge_d_flipflop,,,,,,,,

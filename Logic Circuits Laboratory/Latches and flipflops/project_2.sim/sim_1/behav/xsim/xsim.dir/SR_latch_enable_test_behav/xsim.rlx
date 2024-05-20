@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2779498319472868955  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto d1b070d97f014ff3a010383653978bcc --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot SR_latch_enable_test_behav xil_defaultlib.SR_latch_enable_test xil_defaultlib.glbl" , 
+    buildDate : "Dec 15 2017" , 
+    buildTime : "21:07:18" , 
+    linkCmd : "D:\\Xilinx_LocigLab\\Vivado\\2017.4\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/SR_latch_enable_test_behav/xsimk.exe\"   \"xsim.dir/SR_latch_enable_test_behav/obj/xsim_0.win64.obj\" \"xsim.dir/SR_latch_enable_test_behav/obj/xsim_1.win64.obj\" \"D:\\Xilinx_LocigLab\\Vivado\\2017.4\\lib\\win64.o\\\\librdi_simulator_kernel.dll\" \"D:\\Xilinx_LocigLab\\Vivado\\2017.4\\lib\\win64.o\\\\librdi_simbridge_kernel.dll\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

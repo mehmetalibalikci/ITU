@@ -1,0 +1,10 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx_LocigLab/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto d1b070d97f014ff3a010383653978bcc --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot negative_edge_d_flipflop_test_behav xil_defaultlib.negative_edge_d_flipflop_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-93] D is not declared under prefix D1 [C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v:15]
+ERROR: [VRFC 10-93] D is not declared under prefix D2 [C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v:16]
+ERROR: [VRFC 10-93] EN is not declared under prefix D1 [C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v:18]
+ERROR: [VRFC 10-93] EN is not declared under prefix D2 [C:/Users/mehme/blg242/project_2/project_2.srcs/sources_1/new/negative_edge_d_flipflop.v:19]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
