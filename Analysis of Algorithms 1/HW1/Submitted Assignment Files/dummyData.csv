@@ -1,0 +1,600 @@
+﻿Tokyo;35676000
+New York;19354922
+Mexico City;19028000
+Mumbai;18978000
+Sao Paulo;18845000
+Delhi;15926000
+Shanghai;14987000
+Kolkata;14787000
+Los Angeles;12815475
+Dhaka;12797394
+Buenos Aires;12795000
+Karachi;12130000
+Cairo;11893000
+Rio de Janeiro;11748000
+Osaka;11294000
+Beijing;11106000
+Manila;11100000
+Moscow;10452000
+Istanbul;10061000
+Paris;9904000
+Seoul;9796000
+Lagos;9466000
+Jakarta;9125000
+Guangzhou;8829000
+Chicago;8675982
+London;8567000
+Lima;8012000
+Tehran;7873000
+Kinshasa;7843000
+Bogota;7772000
+Shenzhen;7581000
+Wuhan;7243000
+Hong Kong;7206000
+Tianjin;7180000
+Chennai;7163000
+Taipei;6900273
+Bengaluru;6787000
+Bangkok;6704000
+Lahore;6577000
+Chongqing;6461000
+Miami;6381966
+Hyderabad;6376000
+Dallas;5733259
+Santiago;5720000
+Philadelphia;5637884
+Belo Horizonte;5575000
+Madrid;5567000
+Houston;5446468
+Ahmadabad;5375000
+Ho Chi Minh City;5314000
+Washington;5289420
+Atlanta;5228750
+Toronto;5213000
+Singapore;5183700
+Luanda;5172900
+Baghdad;5054000
+Barcelona;4920000
+Haora;4841638
+Shenyang;4787000
+Khartoum;4754000
+Pune;4672000
+Boston;4637537
+Sydney;4630000
+Saint Petersburg;4553000
+Chittagong;4529000
+Dongguan;4528000
+Riyadh;4465000
+Hanoi;4378000
+Guadalajara;4198000
+Melbourne;4170000
+Alexandria;4165000
+Chengdu;4123000
+Rangoon;4088000
+Phoenix;4081849
+Xi'an;4009000
+Porto Alegre;3917000
+Surat;3842000
+Hechi;3830000
+Abidjan;3802000
+Brasilia;3716996
+Ankara;3716000
+Monterrey;3712000
+Yokohama;3697894
+Nanjing;3679000
+Montreal;3678000
+Guiyang;3662000
+Recife;3651000
+Seattle;3643765
+Harbin;3621000
+San Francisco;3603761
+Fortaleza;3602319
+Zhangzhou;3531147
+Detroit;3522206
+Salvador;3484000
+Busan;3480000
+Johannesburg;3435000
+Berlin;3406000
+Algiers;3354000
+Rome;3339000
+Pyongyang;3300000
+Medellin;3297000
+Kabul;3277000
+Athens;3242000
+Nagoya;3230000
+Cape Town;3215000
+San Diego;3210314
+Changchun;3183000
+Casablanca;3181000
+Dalian;3167000
+Cawnpore;3162000
+Kano;3140000
+Tel Aviv-Yafo;3112000
+Addis Ababa;3100000
+Curitiba;3084000
+Zibo;3061000
+Jeddah;3012000
+Nairobi;3010000
+Hangzhou;3007000
+Benoni;2986000
+Caracas;2985000
+Milan;2945000
+Stuttgart;2944700
+Kunming;2931000
+Dar es Salaam;2930000
+Minneapolis;2926757
+Jaipur;2917000
+Taiyuan;2913000
+Frankfurt;2895000
+Qingdao;2866000
+Surabaya;2845000
+Lisbon;2812000
+Tampa;2804240
+Jinan;2798000
+Fukuoka;2792000
+Campinas;2791000
+Denver;2787266
+Kaohsiung;2769072
+Quezon City;2761720
+Katowice;2746000
+Aleppo;2738000
+Durban;2729000
+Kyiv;2709000
+Lucknow;2695000
+Giza;2681863
+Zhengzhou;2636000
+Taichung;2629323
+Brooklyn;2629150
+Ibadan;2628000
+Faisalabad;2617000
+Fuzhou;2606000
+Changsha;2604000
+Dakar;2604000
+Izmir;2587000
+Xiangtan;2586948
+Lanzhou;2561000
+Incheon;2550000
+Sapporo;2544000
+Xiamen;2519000
+Guayaquil;2514000
+George Town;2500000
+Mashhad;2469000
+Damascus;2466000
+Daegu;2460000
+Nagpur;2454000
+Lianshan;2426000
+Shijiazhuang;2417000
+Tunis;2412500
+Vienna;2400000
+Jilin;2396000
+Omdurman;2395159
+Bandung;2394000
+Bekasi;2378211
+Mannheim;2362000
+Nanchang;2350000
+Wenzhou;2350000
+Queens;2333054
+Vancouver;2313328
+Birmingham;2285000
+Cali;2254000
+Naples;2250000
+Sendai;2250000
+Manchester;2230000
+Puebla;2195000
+Tripoli;2189000
+Tashkent;2184000
+Havana;2174000
+Gaoping;2174000
+Baltimore;2170504
+Nanning;2167000
+Belem;2167000
+Patna;2158000
+Santo Domingo;2154000
+Urumqi;2151000
+Zaozhuang;2145000
+Baku;2122300
+Accra;2121000
+Yantai;2116000
+Medan;2115000
+Santa Cruz;2102998
+Tongshan;2091000
+Riverside;2084749
+Linyi;2082000
+St Louis;2078283
+Las Vegas;2073045
+Maracaibo;2072000
+Kuwait City;2063000
+Ad Dammam;2054710
+Portland;2052796
+Haikou;2046189
+Hiroshima;2045000
+Baotou;2036000
+Hefei;2035000
+Indore;2026000
+Goiania;2022000
+Sanaa;2008000
+San Antonio;2002530
+Port-au-Prince;1998000
+Haiphong;1969000
+Suzhou;1964000
+Nanyang;1944000
+Bucharest;1942000
+Ningbo;1923000
+Douala;1906000
+Tangshan;1879000
+Tainan;1876312
+Xiping;1873000
+Asuncion;1870000
+Saidu Sharif;1860310
+Brisbane;1860000
+Rawalpindi;1858000
+Sacramento;1854698
+Beirut;1846000
+San Jose;1821899
+Minsk;1805000
+Kyoto;1805000
+Barranquilla;1798000
+Orlando;1776841
+Shuyangzha;1770000
+Valencia;1770000
+Hamburg;1757000
+Vadodara;1756000
+Manaus;1753000
+Shangqiu;1753000
+Wuxi;1749000
+Palembang;1749000
+Brussels;1743000
+Essen;1742135
+Cleveland;1730363
+Bhopal;1727000
+Hohhot;1726000
+Pittsburgh;1715297
+Luoyang;1715000
+Santos;1709000
+Jingling;1708000
+Warsaw;1707000
+Rabat;1705000
+Vitoria;1704000
+Quito;1701000
+Antananarivo;1697000
+Coimbatore;1696000
+Daqing;1693000
+Lu'an;1690000
+Sanzhou;1680000
+Budapest;1679000
+Turin;1652000
+Suzhou;1650000
+Ludhiana;1649000
+Cincinnati;1648254
+Kumasi;1646000
+Manhattan;1643734
+Qiqihar;1641000
+Anshan;1639000
+Austin;1638716
+Zhongli;1632616
+Handan;1631000
+Tai'an;1629000
+Esfahan;1628000
+Kansas City;1615621
+Yaounde;1611000
+Shantou;1601000
+Agra;1592000
+Zhanjiang;1590000
+La Paz;1590000
+Kalyan;1576614
+Abuja;1576000
+Harare;1572000
+Indianapolis;1564699
+Xiantao;1556000
+Khulna;1553000
+Weifang;1553000
+Tijuana;1553000
+Santiago;1550753
+Xinyang;1541000
+Luzhou;1537000
+Perth;1532000
+Toluca;1531000
+Vishakhapatnam;1529000
+Leeds;1529000
+Kobe;1528478
+Columbus;1528314
+Multan;1522000
+Kochi;1519000
+Montevideo;1513000
+Gujranwala;1513000
+Niteroi;1500513
+Ganzhou;1500000
+Florence;1500000
+Liuzhou;1497000
+Bamako;1494000
+Conakry;1494000
+Bursa;1492000
+Leon de los Aldama;1488000
+Virginia Beach;1480383
+Nasik;1473000
+Fushun;1470000
+Changde;1469000
+Daejeon;1468000
+Charlotte;1467362
+Phnom Penh;1466000
+Neijiang;1466000
+Quanzhou;1463000
+Kharkiv;1461000
+Hyderabad City;1459000
+Bronx;1455720
+Lome;1452000
+Cordoba;1452000
+Huainan;1451000
+Doha;1450000
+Kuala Lumpur;1448000
+Maputo;1446000
+Kaduna;1442000
+Gwangju;1440000
+Kawanakajima;1437266
+San Salvador;1433000
+Suining;1425000
+Lyon;1423000
+Karaj;1423000
+Kampala;1420000
+Tabriz;1413000
+The Hague;1406000
+Davao;1402000
+Marseille;1400000
+Meerut;1398000
+Mianyang;1396000
+Semarang;1396000
+Faridabad;1394000
+Novosibirsk;1389000
+Mecca;1385000
+Dubai;1379000
+Milwaukee;1377808
+Auckland;1377200
+Ma'anshan;1366302
+Brazzaville;1355000
+Yiyang;1352000
+Varanasi;1352000
+Lubumbashi;1352000
+Juarez;1343000
+Ghaziabad;1341000
+Pretoria;1338000
+Heze;1338000
+Porto;1337000
+Asansol;1328000
+Lusaka;1328000
+Changzhou;1327000
+Mosul;1316000
+Yekaterinburg;1313000
+Peshawar;1303000
+Mandalay;1300000
+Jamshedpur;1300000
+Mbuji-Mayi;1295000
+Madura;1294000
+Adana;1293000
+Sheffield;1292900
+Jabalpur;1285000
+San Jose;1284000
+Panama City;1281000
+Nizhniy Novgorod;1278000
+Chifeng;1277000
+Duisburg;1276757
+Munich;1275000
+Huaiyin;1264000
+Stockholm;1264000
+Makassar;1262000
+Rajkot;1260000
+Dhanbad;1246000
+Mudanjiang;1244000
+Geneva;1240000
+Shiraz;1240000
+Huzhou;1231000
+Beidao;1225000
+Shuangshui;1221000
+Dusseldorf;1220000
+Gaozhou;1217715
+Sevilla;1212045
+Amritsar;1212000
+Vila Velha;1209091
+Vila Velha;1209091
+Almaty;1209000
+Providence;1206642
+Warangal;1203853
+Rosario;1203000
+Allahabad;1201000
+Benin City;1190000
+Jining;1186000
+Maceio;1186000
+Sofia;1185000
+Abbottabad;1183647
+Benghazi;1180000
+Cilacap;1174964
+Prague;1162000
+Glasgow;1160000
+Leshan;1157000
+Jacksonville;1156291
+Ouagadougou;1149000
+Ottawa;1145000
+Adelaide;1145000
+Shangrao;1144577
+Torreon;1144000
+Srinagar;1140000
+Bezwada;1137000
+Samara;1137000
+Omsk;1135000
+Newcastle;1134616
+Yulin;1127000
+Namp'o;1127000
+Xianyang;1126000
+Cagayan de Oro;1121561
+Can Tho;1121000
+Barquisimeto;1116000
+Helsinki;1115000
+Kazan';1115000
+Aurangabad;1113000
+Calgary;1110000
+Ciudad Nezahualcoyotl;1109363
+Zurich;1108000
+Baoding;1107000
+Zigong;1105000
+Sharjah;1103027
+Yerevan;1102000
+Mogadishu;1100000
+Tbilisi;1100000
+Ankang;1100000
+Huambo;1100000
+Ikare;1099931
+Belgrade;1099000
+Salt Lake City;1098400
+Bhilai;1097000
+Jinhua;1092852
+Chelyabinsk;1091000
+Natal;1088000
+Dushanbe;1086244
+Copenhagen;1085000
+Changwon;1081499
+Zhuzhou;1080000
+Suwon;1078000
+Nashville;1076645
+Vereeniging;1074000
+Xiangyang;1069000
+Memphis;1068873
+Ulsan;1061000
+Amman;1060000
+Mizhou;1060000
+Richmond;1059907
+Dublin;1059000
+Edmonton;1058000
+Solapur;1057000
+Rostov-na-Donu;1052000
+Dnipro;1050000
+Xining;1048000
+Zhangjiakou;1046000
+Lille;1044000
+Ranchi;1044000
+Gaziantep;1044000
+Monrovia;1041000
+Sao Luis;1038000
+Amsterdam;1031000
+Jerusalem;1029300
+New Orleans;1029123
+Guatemala City;1024000
+Zhuhai;1023000
+Florianopolis;1023000
+Port Elizabeth;1021000
+Jiamusi;1020000
+Port Harcourt;1020000
+Raleigh;1018336
+Ufa;1018000
+Hengyang;1016000
+Benxi;1012000
+Louisville;1011696
+Haifa;1011000
+Medina;1010000
+Bucaramanga;1009000
+Maracay;1007000
+Rotterdam;1005000
+Homs;1005000
+Cologne;1004000
+Qinhuangdao;1003000
+Fes;1002000
+N'Djamena;989000
+Tegucigalpa;946000
+Kingston;937700
+Nay Pyi Taw;930000
+Djibouti;923000
+Managua;920000
+Niamey;915000
+Tirana;895350
+Kathmandu;895000
+Ulaanbaatar;885000
+Kigali;860000
+Bishkek;837000
+Oslo;835000
+Bangui;831925
+Freetown;827000
+Islamabad;780000
+Cotonou;762000
+Vientiane;754000
+Riga;742572
+Nouakchott;742144
+Muscat;734697
+Ashgabat;727700
+Zagreb;722526
+Sarajevo;696731
+Chisinau;688134
+Lilongwe;646750
+Asmara;620802
+Abu Dhabi;603492
+Port Louis;595491
+Libreville;578156
+Manama;563920
+Vilnius;542366
+Skopje;494087
+Bloemfontein;463064
+Bratislava;423737
+Bissau;403339
+Tallinn;394024
+Wellington;393400
+Valletta;368250
+Maseru;361324
+Nur-Sultan;345604
+Bujumbura;331700
+Canberra;327700
+New Delhi;317797
+Ljubljana;314807
+Porto-Novo;300000
+Bandar Seri Begawan;296500
+Port of Spain;294934
+Port Moresby;283733
+Bern;275329
+Windhoek;268132
+Georgetown;264350
+Paramaribo;254169
+Dili;234331
+Nassau;227940
+Sucre;224838
+Nicosia;224300
+Dodoma;218269
+Colombo;217000
+Gaborone;208411
+Yamoussoukro;206499
+Bridgetown;191152
+Suva;175399
+Reykjavik;166212
+Malabo;155963
+Willemstad;146813
+Podgorica;145850
+Moroni;128698
+Sri Jayewardenepura Kotte;115826
+Praia;113364
+Male;112927
+Juba;111975
+Luxembourg;107260
+Thimphu;98676
+Mbabane;90138
+Sao Tome;88219
+Honiara;76328
+Oranjestad;68775
+Apia;61916
+Andorra la Vella;53998
+Kingstown;49485
+Port-Vila;44040
+Banjul;43094
+Nuku`alofa;42620
+Castries;37963
+Monaco;36371
+Vaduz;36281
+Saint John's;35499
+Saint George's;33734
+Victoria;33576
+San Marino;29579
+Tarawa;28802
+Majuro;25400
+Roseau;23336
+Basseterre;21887
+Belmopan;15220
+Pago Pago;12576
+Lobamba;9782
+Funafuti;4749
+Palikir;4645
+Capitol Hill;2500
+Hagta;1051
