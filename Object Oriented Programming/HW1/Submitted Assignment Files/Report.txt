@@ -1,0 +1,15 @@
+the methods invoked in order are:
+ 
+evaluate_student method was invoked and student3 object was passed to this method with call by reference.
+
+set_noapp method was invoked and nothing was passed to this method.
+
+get_gpa method was invoked and nothing was passed to this method.
+
+get_gre method was invoked and nothing was passed to this method.
+
+get_toefl method was invoked and nothing was passed to this method.
+
+Amy is rejected from McLaren's University message was seen on the screen 
+
+and finish.
